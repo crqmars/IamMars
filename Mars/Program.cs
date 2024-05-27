@@ -5,6 +5,10 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            while (true)
+            {
+                var a = Console.ReadLine();
+            }
         }
     }
 }
